@@ -134,5 +134,8 @@ public class MainActivity extends AppCompatActivity {
     }
 
 
+    public void help(View view) {
 
+      //  startActivity(new Intent(this,Help.class));
+    }
 }
